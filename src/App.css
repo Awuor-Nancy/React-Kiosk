@@ -1,0 +1,29 @@
+/* .main {
+  text-align: center;
+  box-shadow: 5px 0 5px 8px yellow;
+  color: #fff;
+  width: 50%;
+  margin:  auto;
+  padding: 10px;
+  font-size: 20px;
+
+} */
+.App{
+  text-align: center;
+  color: yellow;
+  display: flex;
+  width: 50%;
+  padding: 10px;
+  margin:  auto;
+  box-shadow: 5px 0 5px 8px yellow;
+  margin-top: 40px;
+
+}
+.App, h1{
+  text-align: center;
+  color: #fff;
+
+}
+body{
+  background-color:rgb(15, 84, 15);
+}
